@@ -1,0 +1,16 @@
+G:\03.代码专区\01.QingShan.HelloCode_Demo\HC.Email\HC.Email\bin\Debug\HC.Email.exe
+G:\03.代码专区\01.QingShan.HelloCode_Demo\HC.Email\HC.Email\bin\Debug\HC.Email.pdb
+G:\03.代码专区\01.QingShan.HelloCode_Demo\HC.Email\HC.Email\obj\x86\Debug\HC.Email.MainForm.resources
+G:\03.代码专区\01.QingShan.HelloCode_Demo\HC.Email\HC.Email\obj\x86\Debug\HC.Email.Properties.Resources.resources
+G:\03.代码专区\01.QingShan.HelloCode_Demo\HC.Email\HC.Email\obj\x86\Debug\HC.Email.csproj.GenerateResource.Cache
+G:\03.代码专区\01.QingShan.HelloCode_Demo\HC.Email\HC.Email\obj\x86\Debug\HC.Email.exe
+G:\03.代码专区\01.QingShan.HelloCode_Demo\HC.Email\HC.Email\obj\x86\Debug\HC.Email.pdb
+D:\迅雷下载\20140713111558_5000\HC.Email\HC.Email\bin\Debug\HC.Email.exe
+D:\迅雷下载\20140713111558_5000\HC.Email\HC.Email\bin\Debug\HC.Email.pdb
+D:\迅雷下载\20140713111558_5000\HC.Email\HC.Email\obj\x86\Debug\HC.Email.csprojAssemblyReference.cache
+D:\迅雷下载\20140713111558_5000\HC.Email\HC.Email\obj\x86\Debug\HC.Email.MainForm.resources
+D:\迅雷下载\20140713111558_5000\HC.Email\HC.Email\obj\x86\Debug\HC.Email.Properties.Resources.resources
+D:\迅雷下载\20140713111558_5000\HC.Email\HC.Email\obj\x86\Debug\HC.Email.csproj.GenerateResource.cache
+D:\迅雷下载\20140713111558_5000\HC.Email\HC.Email\obj\x86\Debug\HC.Email.csproj.CoreCompileInputs.cache
+D:\迅雷下载\20140713111558_5000\HC.Email\HC.Email\obj\x86\Debug\HC.Email.exe
+D:\迅雷下载\20140713111558_5000\HC.Email\HC.Email\obj\x86\Debug\HC.Email.pdb
